@@ -1,7 +1,5 @@
 const livros = require("./listaLivros");
 
-//const livros = [25, 15, 30, 50, 45, 20];
-
 function menorValor(arrProdutos, posicaoInicial) {
     let maisBarato = posicaoInicial;
     
